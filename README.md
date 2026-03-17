@@ -48,7 +48,7 @@ Exit
 ## 📸 Screenshots
 
 ### 🖥️ Main Menu
-![Menu](s1.png)
+![Menu](sc1.png)
 
 ---
 
