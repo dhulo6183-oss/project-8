@@ -93,7 +93,28 @@ Exit
 🔹 Operations are performed using NumPy functions  
 🔹 Loop continues until user exits  
 
+
+
 ---
+
+## 📚 Learning Outcomes
+
+- NumPy Basics 🔢  
+- Array Creation 🧱  
+- Indexing & Slicing 🔍  
+- Combining Arrays 🔗  
+- Sorting 🔽  
+- Statistics 📊  
+
+---
+
+## 👨‍💻 Author
+
+**Dhruv Prajapati** 🚀  
+
+---
+
+
 
 ## ▶️ How to Run
 
