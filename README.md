@@ -1,105 +1,139 @@
-📊 NumPy Analyzer 🚀
+# 🧮 NumPy Analyzer (Python CLI Project)
 
-Welcome to the NumPy Analyzer CLI Project — a powerful and beginner-friendly Python application that allows you to perform array operations using NumPy directly from the terminal.
+🚀 A powerful **menu-driven Python application** built using **NumPy** that allows users to perform array operations easily from the command line.
 
-✨ Features
+This project is perfect for beginners to understand **NumPy basics**, **array manipulation**, and **data analysis concepts** in a simple and interactive way.
 
-🔹 📥 Create 1D & 2D Arrays
-🔹 🔍 Indexing & Slicing
-🔹 🔗 Combine Arrays
-🔹 📈 Sort Arrays
-🔹 📊 Statistics (Sum, Mean, Median)
-🔹 ❌ Exit Program
+---
 
-🧰 Technologies Used
+## 📌 Project File
 
-🐍 Python 3
+📄 Main Program: `numpy analyzer.py` :contentReference[oaicite:0]{index=0}
 
-📦 NumPy
+---
 
-📋 Program Menu
-===== NumPy Analyzer =====
-1. Create Array
-2. Indexing / Slicing
-3. Combine Arrays
-4. Sort Array
-5. Statistics
-6. Exit
+## ✨ Features
 
-📸 Menu Preview
+✅ Create 1D & 2D Arrays  
+✅ Perform Indexing & Slicing  
+✅ Combine Multiple Arrays  
+✅ Sort Arrays  
+✅ Calculate Statistics (Sum, Mean, Median)  
+✅ Simple CLI Interface  
+✅ Beginner Friendly 💡  
 
-1️⃣ Create Array
+---
 
-Create arrays by choosing:
+## 🛠️ Technologies Used
 
-1D Array
+- 🐍 Python 3
+- 🔢 NumPy Library
 
-2D Array
+---
 
-📸 Create Array Output
+## 📋 Menu Overview
 
-2️⃣ Indexing / Slicing
+When you run the program, you will see:
 
-Extract parts of the array using row and column slicing.
+Create Array
+Indexing / Slicing
+Combine Arrays
+Sort Array
+Statistics
+Exit
 
-📸 Slicing Output
 
-3️⃣ Combine Arrays
+---
 
-Combine two arrays into one using vertical stacking.
+## 📸 Screenshots
 
-📸 Combine Output
+### 🖥️ Main Menu
+![Menu](s1.png)
 
-4️⃣ Sort Array
+---
 
-Sort array elements in ascending order.
+### 🧩 Create Array (2D Example)
+👉 Create a 2x2 array using user input
 
-📸 Sorted Output
+![Create Array](s2.png)
 
-5️⃣ Statistics 📊
+---
 
-Perform statistical operations:
+### ✂️ Indexing / Slicing
+👉 Extract specific rows & columns from array
 
-➕ Sum
+![Slicing](s3.png)
 
-📊 Mean
+---
 
-📉 Median
+### 🔗 Combine Arrays
+👉 Merge two arrays using vertical stacking
 
-📁 Project Structure
-NumPy-Analyzer/
-│
-├── numpy_analyzer.py
-├── s1.png
-├── s2.png
-├── s3.png
-├── sc4.png
-├── sc5.png
-├── sc6.png
-├── sc7.png
-├── sc8.png
-└── README.md
-▶️ How to Run
-pip install numpy
-python numpy_analyzer.py
-🎯 Learning Outcomes
+![Combine](s4.png)
 
-💡 Understand NumPy basics
-💡 Learn array manipulation
-💡 Build CLI-based Python projects
-💡 Improve logical thinking
+---
 
-👨‍💻 Author
+### 🔽 Sort Array
+👉 Sort elements in ascending order
 
-Dhruv Prajapati 🚀
-Python Developer
+![Sort](s5.png)
 
-⭐ Support
+---
 
-If you like this project:
+### 📊 Statistics - Sum
+👉 Calculate total sum of elements
 
-⭐ Star this repo
-🍴 Fork it
-💬 Share feedback
+![Sum](s6.png)
 
-🔥 Tip: Keep all screenshot images in the same folder as README.md for proper display on GitHub.
+---
+
+### 📊 Statistics - Mean
+👉 Calculate average value
+
+![Mean](s7.png)
+
+---
+
+### 📊 Statistics - Median
+👉 Find middle value
+
+![Median](s8.png)
+
+---
+
+## ⚙️ How It Works
+
+🔹 The program runs in a loop until the user selects **Exit**  
+🔹 It stores the array in memory and performs operations on it  
+🔹 Uses NumPy functions like:
+
+- `np.array()`
+- `reshape()`
+- `vstack()`
+- `sort()`
+- `sum()`
+- `mean()`
+- `median()`
+
+---
+**
+---
+
+## 💡 Learning Outcomes
+
+📚 After completing this project, you will understand:
+
+- NumPy array creation 🧱  
+- Indexing & slicing 🔍  
+- Array operations 🔗  
+- Sorting techniques 🔽  
+- Basic statistics 📊  
+
+---
+
+## 👨‍💻 Author
+
+**Dhruv Prajapati** 🚀  
+
+---
+
