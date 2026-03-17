@@ -84,6 +84,10 @@ Exit
 
 ---
 
+### exit
+
+(sc.8.png)
+
 ## ⚙️ How It Works
 
 🔹 User selects options from menu  
