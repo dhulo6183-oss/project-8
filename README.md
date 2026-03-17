@@ -55,49 +55,49 @@ Exit
 ### 🧩 Create Array (2D Example)
 👉 Create a 2x2 array using user input
 
-![Create Array](s2.png)
+![Create Array](sc2.png)
 
 ---
 
 ### ✂️ Indexing / Slicing
 👉 Extract specific rows & columns from array
 
-![Slicing](s3.png)
+![Slicing](sc3.png)
 
 ---
 
 ### 🔗 Combine Arrays
 👉 Merge two arrays using vertical stacking
 
-![Combine](s4.png)
+![Combine](sc4.png)
 
 ---
 
 ### 🔽 Sort Array
 👉 Sort elements in ascending order
 
-![Sort](s5.png)
+![Sort](sc5.png)
 
 ---
 
 ### 📊 Statistics - Sum
 👉 Calculate total sum of elements
 
-![Sum](s6.png)
+![Sum](sc6.png)
 
 ---
 
 ### 📊 Statistics - Mean
 👉 Calculate average value
 
-![Mean](s7.png)
+![Mean](sc7.png)
 
 ---
 
 ### 📊 Statistics - Median
 👉 Find middle value
 
-![Median](s8.png)
+![Median](sc8.png)
 
 ---
 
